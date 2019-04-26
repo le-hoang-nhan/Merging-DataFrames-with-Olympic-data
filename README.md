@@ -3,3 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Merging-DataFrames-with-Olympi
 
 # Merging-DataFrames-with-Olympic-data
  organize, reshape, and aggregate multiple data sets to answer specific questions
+
+Merging DataFrames with Olympic data :organize, reshape, and aggregate multiple data sets to analyse influences of host countries
+
+(concat, pivot_table, merge, set_index, divide, expanding, pct_change, melt, ...)
