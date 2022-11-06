@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Merging-DataFrames-with-Olympi
 
 See my presentation PowerPoint here: 
 Merge dataframes with Olympic data 
-https://drive.google.com/file/d/1yMhirXW2ObKeXXW15hX6JzW8HbXdH-OQ/view?usp=sharing
+https://docs.google.com/presentation/d/1xUkCZfTOCVgIa2owahrKVSMxWJ0F-CRY/edit?usp=share_link&ouid=111920116703878991428&rtpof=true&sd=true
 
 # Merging-DataFrames-with-Olympic-data
  organize, reshape, and aggregate multiple data sets to answer specific questions
